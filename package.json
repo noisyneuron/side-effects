@@ -1,0 +1,22 @@
+{
+  "name": "loops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
+    "cssnano": "^4.1.10"
+  },
+  "dependencies": {
+    "framer-motion": "^1.8.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
